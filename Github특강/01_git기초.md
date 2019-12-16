@@ -16,3 +16,19 @@ github은 git이 관리하는 Repo의 원격 저장소를 제공하는 서비스
 
 ![image-20191216164631646](01_git기초.assets/image-20191216164631646.png)
 
+
+
+
+
+## Typora
+
+| 명령어   | 설명      | 예시       |
+| -------- | --------- | ---------- |
+| git init | 깃 초기화 | `git init` |
+
+```C#
+public Setup(){
+    //Example
+}
+```
+
