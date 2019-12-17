@@ -18,7 +18,9 @@ github은 git이 관리하는 Repo의 원격 저장소를 제공하는 서비스
 
 
 
+## Clone
 
+git remote repo는 다운로드가 아니라 clone을 해야한다.
 
 ## Typora
 
